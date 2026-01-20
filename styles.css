@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(249, 213, 165);
+}
+
+h1{
+    background-color: rgb(127, 127, 247);
+    font-size: 55px;
+    color: coral;
+    letter-spacing: 12px;
+    word-spacing: 20px;
+    text-align: center;
+    font-variant: small-caps;
+    text-transform: uppercase;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 300;
+    word-spacing: 8;
+    text-decoration: overline;
+}
+
+h2{
+   /* border: 2px black solid;*/
+    border-top: 5px black solid;
+    border-right: rgb(21, 1, 4) double;
+    border-bottom:red 5px groove;
+    border-left: 5px green dotted;
+
+    /* padding */
+    /* padding:50px; */
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+
+    /* margin */
+    /* margin: 70px; */
+    margin-top: 40px;
+    margin-right: 50px;
+    margin-bottom: 40px;
+    margin-left: 50px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 2opx;
+    background-color: rgb(131, 232, 30);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+
+a:hover{
+    background-color: rgb(234, 228, 228);
+    color: red;
+    text-decoration: underline;
+}
+ h1:hover{
+    background-color: red;
+    color: white;
+ }

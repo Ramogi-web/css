@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(252, 229, 199);
+}
+#par1{
+    color: blue;
+    background-color: coral;
+    font-size: 26px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+#par2{
+    color: fuchsia;
+    font-size: 20px;
+    background-color: aqua;
+    padding: 10px;
+    text-align: end;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+#par3{
+    color: violet;
+    background-color: chocolate;
+    font-size: 20px;
+    text-decoration: overline;
+    text-transform: capitalize;
+    padding: 15px;
+}
+.myparagraph{
+    color: crimson;
+    font-size: 24px;
+    background-color: chartreuse;
+    padding: 12px;
+}
+.divisions{
+    color:rgb(1, 1, 5);
+    font-size: 14px;
+    background-color: aqua;
+    padding: 20px;
+}
