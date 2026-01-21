@@ -1,0 +1,29 @@
+#black{
+    background-color: black;
+    height: 150px;
+}
+
+#red{
+    background-color: red;
+    height: 150px;
+}
+
+#green{
+    background-color: green;
+    height: 150px;
+}
+.white{
+    background-color: white;
+    height: 40px;
+}
+.parentcontainer{
+    position: relative;
+}
+.overlay{
+    position: absolute;
+    top: 50px;
+    left: 450px;
+    z-index: 10;
+    width: 450px;
+    height: 400px;
+}
